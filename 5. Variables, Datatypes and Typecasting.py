@@ -14,6 +14,7 @@ int()
 float()
 """
 
+
 """
 Quiz - Solved in the video
 Exercise - Next video
