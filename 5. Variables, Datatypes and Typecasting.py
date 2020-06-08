@@ -99,7 +99,6 @@ Project - Some awesome python utility
 # and then give output as a sum of these numbers.
 
 # Addition Program
-
 print("Enter first number")
 n1 = input()
 print("Enter second number")
