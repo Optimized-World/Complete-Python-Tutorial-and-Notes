@@ -94,6 +94,9 @@ Exercise - Next Tutorial
 Project - Some awesome python utility
 """
 
+# Quiz : Create a program which takes two number input from user 
+# and then give output as a sum of these numbers.
+
 # Addition Program
 
 print("Enter first number")
