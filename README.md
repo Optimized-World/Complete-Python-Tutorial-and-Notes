@@ -1,8 +1,7 @@
 # Complete-Python-Tutorial-and-Notes
 
 # Set Up Steps
-git clone https://github.com/Optimized-World/Complete-Python-Tutorial-and-Notes.git
-
+Fork the Repo and make changes in Notes in your own Repo Copy
 # Please do git pull daily to get new tutorials
 # Daily 5 Notes/tutorials will be added
 
