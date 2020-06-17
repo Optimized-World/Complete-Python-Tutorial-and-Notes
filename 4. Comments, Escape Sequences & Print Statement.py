@@ -23,6 +23,8 @@
 ## We use """ ….. Comment …. """ for writing multi line comment 
 # i.e. (tripe quotes for writing multi-line comments).
 
+text = "# This is not a comment because it's inside quotes."
+
 """
 This is a
 Multiline Comment
