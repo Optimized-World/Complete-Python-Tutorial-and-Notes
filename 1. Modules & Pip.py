@@ -53,3 +53,24 @@ link = "https://docs.python.org/3/py-modindex.html"
 # Example – Flask, Pandas, etc.
 
 ##################### That's all about modules in Python. #########################
+
+
+################################ Extra Content  ###################################
+
+## The following command will install the latest version of a module 
+#  and its dependencies from the Python Packaging Index:
+
+#=>$ pip install SomePackage
+
+## It’s also possible to specify an exact or minimum version directly on the command line.
+#  When using comparator operators such as >, < or some other special character which get 
+# interpreted by shell, the package name and the version should be enclosed within double quotes:
+
+#=>$ pip install SomePackage==1.0.4    # specific version
+#=>$ pip install "SomePackage>=1.0.4"  # minimum version
+
+## Normally, if a suitable module is already installed, 
+# attempting to install it again will have no effect. 
+# Upgrading existing modules must be requested explicitly:
+
+#=>$ pip install --upgrade SomePackage
