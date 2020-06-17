@@ -45,14 +45,12 @@
 
 ## After Installing both Python:
 
-# Open terminal (Powershell) and then type ‘Python’ and press Enter.
+# Open terminal (Powershell in case of windows) and then type ‘Python’ and press Enter.
 # You should see the output like this .. 
 
 # Windows PowerShell
 # Copyright (C) Microsoft Corporation. All rights reserved.
-
 # Try the new cross-platform PowerShell https://aka.ms/pscore6
-
 # PS C:\Users\VIVEK MISHRA> python
 # Python 3.8.1 (tags/v3.8.1:1b293b6, Dec 18 2019, 22:39:24) [MSC v.1916 32 bit (Intel)] on win32
 # Type "help", "copyright", "credits" or "license" for more information.
