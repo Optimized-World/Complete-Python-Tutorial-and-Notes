@@ -8,4 +8,4 @@ git clone https://github.com/Optimized-World/Complete-Python-Tutorial-and-Notes.
 
 # If you would like to improve Notes and tutorials please contribute by creating pull requests. Thank You.
 
-Credit : CodeWithHarry.com
+Reference : CodeWithHarry.com
