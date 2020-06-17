@@ -98,6 +98,9 @@ Project - Some awesome python utility
 # Quiz : Create a program which takes two number input from user 
 # and then give output as a sum of these numbers.
 
+
+
+# Solution
 # Addition Program
 print("Enter first number")
 n1 = input()
