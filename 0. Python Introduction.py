@@ -57,3 +57,13 @@
 # >>>
 
 ############################################################################
+
+########################## Application of Python ###########################
+
+# You can do almost every thing using Python like
+
+# Web Development
+# Game Development
+# Data Science
+# Machine Learning
+# and Many more things
