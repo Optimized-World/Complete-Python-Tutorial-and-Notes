@@ -56,6 +56,8 @@
 # Type "help", "copyright", "credits" or "license" for more information.
 # >>>
 
+# You can exit the interpreter by typing the following command: quit().
+
 ############################################################################
 
 ########################## Application of Python ###########################
