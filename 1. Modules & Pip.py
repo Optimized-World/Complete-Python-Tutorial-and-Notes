@@ -12,7 +12,8 @@
 
 # Pip – Pip is a package manager in python
 # i.e. pip command is used to download any external module in python. 
-# It is something like which helps us to get something from somewhere.
+# It is something like which helps us to get something from somewhere 
+# and automatically save packages at suitable location for futher use.
 
 ### We can install any module in our system by pip command :
 
