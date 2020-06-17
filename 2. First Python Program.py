@@ -4,7 +4,10 @@
 
 print("Hello World !!")
 
-# Output :
+## Run this on terminal/CMD
 
-# > python .\2FirstPythonProgram.py
+# > python .\2FirstPythonProgram.py  ## you can also type 'python 2.' then Tab ##
+
+## Output :
+
 # Hello World !!
