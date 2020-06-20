@@ -1,8 +1,12 @@
 # Complete-Python-Tutorial-and-Notes
 
-# Set Up Steps
-Fork the Repo and make changes in Notes in your own Repo Copy
-# Please do git pull daily to get new tutorials
+$ Set Up Steps $
+
+1. Fork the repository.
+2. Clone the forked repository to your local system.
+3. Make your changes in the code in your local system.
+4. Push the code to forked repository in your GitHub.
+
 # Daily 5 Notes/tutorials will be added
 
 # If you would like to improve Notes and tutorials please contribute by creating pull requests. Thank You.
