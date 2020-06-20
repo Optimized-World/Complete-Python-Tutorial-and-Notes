@@ -6,4 +6,3 @@ Dict = {"ignore":"refuse to take notice of or acknowledge", "abandon":"cease to 
 print("Enter the Word")
 Data1 = input()
 print(Data1, "means", Dict[Data1])
-
