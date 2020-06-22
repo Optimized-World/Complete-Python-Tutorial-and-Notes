@@ -72,11 +72,12 @@ print(val)
 ################ Doc strings ##################
 
 # Used to store information about function
-# """ Documentation """ # This is not a comment but docstring ...
+# """ Documentation """ or ''' Documentation '''
+# # This is not a comment but docstring ...
 # ...if written as first line in function
 # written elsewhere in function treated as comment
 def function5(a,b):
-    """This is a function which calculates average of two numbers"""
+    '''This is a function which calculates average of two numbers'''
     average = (a+b)/2
     return average
 
