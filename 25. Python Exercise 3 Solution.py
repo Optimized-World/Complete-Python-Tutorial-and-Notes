@@ -21,28 +21,28 @@ while(True):
     if num==n:
         guesses_left-=1
         print("Great, You guessed the number.\nYou took ",9-guesses_left," guesses to finish !!")
-        print("Congratulation, You will !!")
-        break;
+        print("Congratulation, You win !!")
+        break
     elif num>n:
         guesses_left-=1
         print("You entered a greater number.")
         if guesses_left == 0:
             print("Ohh, You lose. Game Over :)")
-            break;
+            break
         print("Guesses Left : ",guesses_left)
         print("Please try again. Enter your guess : ", end =' ')
         num = int(input())
-        continue;
+        continue
     else:
         guesses_left-=1
         print("You entered a smaller number.")
         if guesses_left == 0:
             print("Ohh, You lose. Game Over :)")
-            break;
+            break
         print("Guesses Left : ",guesses_left)
         print("Please try again. Enter your guess : ", end =' ')
         num = int(input())
-        continue;
+        continue
 
 
 
