@@ -22,9 +22,17 @@ with open("29. Tutorial.txt") as f:
 # 'It will be very helpful for students.'] 
 
 # Question of the day -
+# Question 1: 
 # Can we do readlines outside with block?
 #  Yes or No and why?
 
 # Answer :
 # No, because with block closes the files once we get out of with block.
   
+# Question 2: 
+# f = open("29. Tutorial.txt", "rt")
+# Can we do readlines here?
+# f.close()
+
+# Answer :
+# Yes
