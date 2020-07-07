@@ -8,8 +8,6 @@ $ Set Up Steps $
 4. Push the code to forked repository in your GitHub.
 5. If you like the Notes, you can appreciate by providing star to the repository
 
-# Daily 5 Notes/tutorials will be added
-
-# If you would like to improve Notes and tutorials please contribute by creating pull requests. Thank You.
+# Daily 2 Notes/tutorials will be added
 
 Reference : CodeWithHarry.com
